@@ -10,7 +10,7 @@ npm install
 npm run test
 ```
 
-Here is a real time xor-training example:
+## Real time visualized xor-probleme training example
 <p>
 <img src="./xor.gif">
 </p>
