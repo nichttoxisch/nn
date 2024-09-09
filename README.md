@@ -9,3 +9,8 @@ To run :
 npm install
 npm run test
 ```
+
+Here is a real time xor-training example:
+<p>
+<img src="./xor.gif">
+</p>
